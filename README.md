@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kumar Gaurav</h1>
-<h3 align="center">I'm a computer science student passionate about building user-centric applications powered by intelligent systems. My current work focuses on integrating these technologies while actively exploring techniques for model optimization to enhance performance and efficiency.</h3>
+<h3 align="center">I'm a CS student working on projects that combine intelligent systems with user-focused applications, while continuously learning more about model optimization.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
