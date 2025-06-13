@@ -3,8 +3,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://x.com/kg15072004?t=m1fle1dggke6ppqqbeyvhw&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/kg15072004?t=m1fle1dggke6ppqqbeyvhw&s=09" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/kumar-gaurav-5bb64728a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/kumar-gaurav-5bb64728a/" height="30" width="40" /></a>
+<a href="https://x.com/kg15072004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/kg15072004?t=m1fle1dggke6ppqqbeyvhw&s=09" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kumar-gaurav-5bb64728a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/kumar-gaurav-5bb64728a/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
