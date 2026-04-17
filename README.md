@@ -58,21 +58,21 @@ A CS student working on projects that combine intelligent systems with user-focu
 
 <h3 align="left">📈 GitHub Stats:</h3>
 
-<table>
+<table width="100%" cellspacing="10">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=1415-da&show_icons=true&theme=tokyonight&hide_border=true" />
+    <td width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=1415-da&show_icons=true&theme=tokyonight&hide_border=true" />
     </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=1415-da&theme=tokyonight&hide_border=true" />
+    <td width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=1415-da&layout=compact&theme=tokyonight&hide_border=true" />
     </td>
   </tr>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1415-da&layout=compact&theme=tokyonight&hide_border=true" />
+    <td width="50%">
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=1415-da&theme=tokyonight&hide_border=true" />
     </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1415-da&theme=tokyonight" />
+    <td width="50%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1415-da&theme=tokyonight" />
     </td>
   </tr>
 </table>
